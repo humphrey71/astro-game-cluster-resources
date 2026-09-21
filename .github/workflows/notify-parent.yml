@@ -1,0 +1,18 @@
+name: Notify Parent Repo on Resources Update
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Repository Dispatch to Parent Repo
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.SYNC_PAT_TOKEN }}
+          repository: ${{ vars.PARENT_REPO || 'owner/astro-game-cluster' }}
+          event-type: resources-updated
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}", "sender": "${{ github.actor }}"}'
