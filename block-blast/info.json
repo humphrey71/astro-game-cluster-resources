@@ -1,0 +1,20 @@
+{
+  "slug": "block-blast",
+  "title": "Block Blast - Play Free Online Puzzle Game",
+  "iframe_url": "https://block-blast.io/",
+  "thumbnail": "/images/block-blast-thumb.jpg",
+  "category": "Block Games",
+  "tags": [
+    "Puzzle",
+    "Block",
+    "Tetris",
+    "Casual"
+  ],
+  "rating": 4.8,
+  "featured": true,
+  "trending": true,
+  "related_games": [
+    "friday-night-funkin"
+  ],
+  "description": "Enjoy Block Blast puzzle game online for free! Place shapes on the board to clear lines and score high. No downloads required, play now in your browser."
+}

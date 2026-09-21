@@ -1,0 +1,18 @@
+{
+  "slug": "1010-block-puzzle",
+  "title": "1010 Block Puzzle",
+  "iframe_url": "https://block-blast.io/game/1010-block-puzzle/",
+  "thumbnail": "/images/default-thumb.jpg",
+  "category": "Block Games",
+  "tags": [
+    "Block Puzzle",
+    "Casual"
+  ],
+  "rating": 4.7,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play 1010 Block Puzzle online and arrange block shapes on a 10x10 board for satisfying line clears."
+}

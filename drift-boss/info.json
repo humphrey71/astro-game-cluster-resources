@@ -1,0 +1,19 @@
+{
+  "slug": "drift-boss",
+  "title": "Drift Boss",
+  "iframe_url": "https://www.crazygames.com/game/drift-boss",
+  "thumbnail": "/images/default-thumb.jpg",
+  "category": "Sport Games",
+  "tags": [
+    "Sport Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Drift Boss is an addictive one-click 3D driving game. Drift through sharp corners on a floating track with precision timing to achieve the ultimate high score."
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "friday-night-funkin",
+  "title": "Friday Night Funkin - Play Free Online Rhythm Game",
+  "iframe_url": "https://fridaynightfunkin.io/",
+  "thumbnail": "/images/fnf-thumb.jpg",
+  "category": "Casual Games",
+  "tags": [
+    "Rhythm",
+    "Music",
+    "Casual",
+    "Arcade"
+  ],
+  "rating": 4.9,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play Friday Night Funkin' online for free! Match the rhythm arrows, beat your opponents, and win the heart of your Girlfriend. No downloads, free to play."
+}

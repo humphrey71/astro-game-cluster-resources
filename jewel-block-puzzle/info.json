@@ -1,0 +1,18 @@
+{
+  "slug": "jewel-block-puzzle",
+  "title": "Jewel Block Puzzle",
+  "iframe_url": "https://block-blast.io/game/jewel-block-puzzle/",
+  "thumbnail": "/images/default-thumb.jpg",
+  "category": "Puzzle Games",
+  "tags": [
+    "Block Puzzle",
+    "Casual"
+  ],
+  "rating": 4.7,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play Jewel Block Puzzle online, match sparkling block shapes, and clear lines for high scores."
+}

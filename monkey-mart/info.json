@@ -1,0 +1,19 @@
+{
+  "slug": "monkey-mart",
+  "title": "Monkey Mart",
+  "iframe_url": "https://monkeymart.org/",
+  "thumbnail": "/images/games/monkey-mart.png",
+  "category": "Simulation Games",
+  "tags": [
+    "Simulation Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Manage your very own supermarket in Monkey Mart! Plant crops, harvest fresh fruits, stack shelves, collect cash, and expand your grocery empire with hired staff."
+}

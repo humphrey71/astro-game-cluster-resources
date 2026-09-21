@@ -1,0 +1,19 @@
+{
+  "slug": "melon-sandbox",
+  "title": "Melon Sandbox",
+  "iframe_url": "https://melon-sandbox.io/",
+  "thumbnail": "/images/games/melon-sandbox.jpg",
+  "category": "Simulation Games",
+  "tags": [
+    "Simulation Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Melon Sandbox (Melon Playground) is a 2D physics ragdoll sandbox where your creativity is the only limit. Experiment with gadgets, vehicles, weapons, and mechanical contraptions."
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "cookie-clicker",
+  "title": "Cookie Clicker",
+  "iframe_url": "https://orteil.dashnet.org/cookieclicker/",
+  "thumbnail": "/images/games/cookie-clicker.jpg",
+  "category": "Casual Games",
+  "tags": [
+    "Casual Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play original Cookie Clicker online for free! Click the giant cookie, hire grandmas, construct factories, and bake billions of cookies in the genre-defining idle classic."
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "wood-block-puzzle",
+  "title": "Wood Block Puzzle",
+  "iframe_url": "https://block-blast.io/game/wood-block-puzzle/",
+  "thumbnail": "/images/default-thumb.jpg",
+  "category": "Puzzle Games",
+  "tags": [
+    "Block Puzzle",
+    "Casual"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play Wood Block Puzzle online and enjoy a calm block-placement challenge with classic wooden pieces."
+}

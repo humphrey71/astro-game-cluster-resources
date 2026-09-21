@@ -1,0 +1,19 @@
+{
+  "slug": "flappy-bird",
+  "title": "Flappy Bird",
+  "iframe_url": "https://flappybird.io/",
+  "thumbnail": "/images/games/flappy-bird.jpg",
+  "category": "Action Games",
+  "tags": [
+    "Action Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play classic Flappy Bird online for free in your browser! Tap to flap your wings and navigate between treacherous green pipes in this legendary arcade trial."
+}

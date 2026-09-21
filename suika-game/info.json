@@ -1,0 +1,19 @@
+{
+  "slug": "suika-game",
+  "title": "Suika Game (Watermelon Game)",
+  "iframe_url": "https://suikagame.com/",
+  "thumbnail": "/images/games/suika-game.jpg",
+  "category": "Casual Games",
+  "tags": [
+    "Casual Games",
+    "Popular Web Game",
+    "Free Online"
+  ],
+  "rating": 4.8,
+  "featured": false,
+  "trending": true,
+  "related_games": [
+    "block-blast"
+  ],
+  "description": "Play the viral Suika Game online for free! Drop and merge colorful fruits together to create the giant watermelon in this addictive Japanese physics puzzle."
+}
